@@ -16,12 +16,6 @@ Atualmente estudo e desenvolvo projetos voltados para **UX, performance e boas p
 
 ---
 
-## 📊 GitHub Stats
-
-![Dennis Py GitHub stats](https://github-readme-stats.vercel.app/api?username=dennispy14&show_icons=true&theme=transparent)
-
----
-
 ## 🚀 Tecnologias & Ferramentas
 
 ### 💻 Backend
